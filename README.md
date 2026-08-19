@@ -3,11 +3,6 @@
 <!-- Animated header wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=200&section=header&text=Maria%20Luisa&fontSize=60&fontColor=fff&fontAlignY=38&desc=Estudante+de+Engenharia+de+Software&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6F3C&center=true&vCenter=true&random=false&width=500&lines=Aprendendo+e+evoluindo+todos+os+dias;Explorando+o+universo+de+Data+Science;Construindo+minha+jornada+em+IA" alt="Typing SVG" />
-</a>
-
 <br/>
 
 ## 👩‍💻 Sobre mim
@@ -48,23 +43,6 @@ print(me.frase())
 📈  Análise Preditiva & Modelagem Estatística
 📊  Visualização de Dados & Storytelling
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahluoliveira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=2F1B41&title_color=FF6F3C&icon_color=FFB347&text_color=FCE8D5"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahluoliveira&layout=compact&langs_count=8&hide_border=true&bg_color=2F1B41&title_color=FF6F3C&text_color=FCE8D5"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahluoliveira&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2F1B41&ring=FF6F3C&fire=FFB347&currStreakNum=FCE8D5&sideNums=FCE8D5&currStreakLabel=FF6F3C&sideLabels=FCE8D5&dates=C9A0DC)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
